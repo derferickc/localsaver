@@ -1,0 +1,776 @@
+*{
+	/*outline: 1px dotted red;*/
+	/*margin: 0 auto;*/
+}
+
+.header{
+	height: 410px;
+	width: 690px;
+}
+
+	.localsaver_logo{
+		height: 90px;
+		width: 690px;
+		background-color: #006699;
+		text-align: center;
+	}
+
+		#logo{
+			margin-top: 15px;
+		}
+
+	.header_titles{
+		height: 230px;
+	}
+
+	.giant{
+		text-align: center;
+		font-size: 70px;
+		font-family: Arial, Arial, sans-serif;
+		color: #404040;
+		height: 180px;
+		margin-top: 40px;
+	}
+
+	.small{
+		text-align: center;
+		font-size: 30px;
+		font-family: Arial, Arial, sans-serif;
+		/*font-weight: bold;*/
+		color: #bfbfbf;
+		height: 30px;
+	}
+
+.space{
+	height: 55px;
+}
+
+.wrapper{
+	height: 990px;
+	width: 690px;
+	border-radius: 15px;
+	border: 3px solid #d9d9d9;
+}
+
+	.banner{
+
+	}
+	
+		.location{
+			padding-left: 20px;
+			padding-right: 20px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+
+			.coupon_block{
+				padding-top: 10px;
+				padding-bottom: 10px;
+				padding-left: 20px;
+				
+			}
+				
+				.coupon_carrot{ 
+					width: 30px;
+					display: inline-block;
+					margin-bottom:;
+				}
+
+					.next_carrot{
+						font-size: 50px;
+						font-family: Arial Narrow, Arial, sans-serif;
+						font-weight: bold;
+						color: #d9d9d9;
+						margin-left: 130px;
+					}
+
+		#excess_color{
+			font-family: Arial, Arial, sans-serif;
+			text-align: center;
+			font-weight: bold;
+			font-size: 30px;
+			color: #006699
+		}
+
+		#city_state0{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away0{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category0{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button0{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture0{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 660px;
+				left: 30px;
+			}
+
+					.coupon0{
+						font-size: 33px;
+						font-family: Arial, Arial, sans-serif;
+						font-weight: bold;
+						color: #595959;
+						padding-right: 20px;
+						display: inline-block;
+						vertical-align: top;
+						width: 450px;
+					}
+
+					.coupon1{
+						font-size: 33px;
+						font-family: Arial, Arial, sans-serif;
+						font-weight: bold;
+						color: #595959;
+						padding-right: 20px;
+						display: inline-block;
+						vertical-align: top;
+						width: 450px;
+					}
+
+		#city_state1{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away1{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category1{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button1{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+
+			#profile_picture1{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 1710px;
+				left: 30px;
+			}
+
+				.coupon2{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon3{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state2{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away2{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category2{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button2{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+
+			#profile_picture2{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 2760px;
+				left: 30px;
+			}
+
+				.coupon4{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon5{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state3{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away3{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category3{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button3{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture3{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 3810px;
+				left: 30px;
+			}
+
+				.coupon6{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon7{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state4{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away4{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category4{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button4{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture4{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 4860px;
+				left: 30px;
+			}
+
+				.coupon8{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon9{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state5{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away5{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category5{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button5{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture5{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 5910px;
+				left: 30px;
+			}
+			
+				.coupon10{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon11{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state6{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away6{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category6{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button6{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture6{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 6960px;
+				left: 30px;
+			}
+			
+				.coupon12{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon13{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state7{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away7{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category7{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button7{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture7{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 8010px;
+				left: 30px;
+			}
+			
+				.coupon14{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon15{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state8{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away8{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category8{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button8{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture8{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 9060px;
+				left: 30px;
+			}
+			
+				.coupon16{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon17{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+		#city_state9{
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #404040;
+			padding-left: 10px;
+		}
+
+		#miles_away9{
+			margin-left: 380px;
+			font-size: 25px;
+			font-family: Arial, Arial, sans-serif;
+			color: #404040;
+		}
+
+		#category9{
+			font-size: 30px;
+			font-family: Arial, Arial, sans-serif;
+			font-weight: bold;
+			color: #595959;
+			height: 200px;
+		}
+		
+		.button9{
+			padding-top: 10px;
+			padding-bottom: 20px;
+			width: 650px;
+			height: 150px;
+			background-color: #006699; 
+		  	color: White;
+		 	border-radius: 10px;
+		 	font-size: 50px;
+			font-family: Arial, Arial, sans-serif;
+		}
+
+			#profile_picture9{
+				box-shadow: 1px 1px;
+				border: 5px solid white; 
+				border-radius: 10px;
+				position: absolute;
+				top: 10110px;
+				left: 30px;
+			}
+			
+				.coupon18{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+				
+				.coupon19{
+					font-size: 33px;
+					font-family: Arial, Arial, sans-serif;
+					font-weight: bold;
+					color: #595959;
+					padding-right: 20px;
+					display: inline-block;
+					vertical-align: top;
+					width: 450px;
+				}
+
+	.body{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+		.category_text{
+			margin-top: 15px;
+			margin-left: 250px;
+			height: 55px;
+		}
+	
+			.body_button{
+				text-align: center;
+				padding-top: 20px;
+				padding-bottom: 20px;
+			}
+
+a:link {
+    text-decoration: none;
+}
